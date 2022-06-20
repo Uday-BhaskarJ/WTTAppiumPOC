@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1623057415377" stop="1623057482018" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : Test</name>
+    <title>Suite : Test</title>
+    <test-cases>
+        <test-case start="1623057415440" stop="1623057427900" status="passed">
+            <name>launcgingApplication</name>
+            <description></description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="execution.Execute"/>
+                <label name="testMethod" value="launcgingApplication"/>
+                <label name="host" value="DESKTOP-ULL41SB"/>
+                <label name="thread" value="22436@DESKTOP-ULL41SB.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1623057427905" stop="1623057431837" status="passed">
+            <name>userLoging</name>
+            <description></description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="execution.Execute"/>
+                <label name="testMethod" value="userLoging"/>
+                <label name="host" value="DESKTOP-ULL41SB"/>
+                <label name="thread" value="22436@DESKTOP-ULL41SB.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1623057431839" stop="1623057481974" status="passed">
+            <name>CreateFolder</name>
+            <description></description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="execution.Execute"/>
+                <label name="testMethod" value="CreateFolder"/>
+                <label name="host" value="DESKTOP-ULL41SB"/>
+                <label name="thread" value="22436@DESKTOP-ULL41SB.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

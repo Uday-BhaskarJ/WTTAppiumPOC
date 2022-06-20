@@ -1,0 +1,60 @@
+{
+  "time" : {
+    "start" : 1623057415440,
+    "stop" : 1623057481974,
+    "duration" : 66534
+  },
+  "testSuites" : [ {
+    "uid" : "c01bfb46f438f597",
+    "name" : "Suite : Test",
+    "title" : "Suite : Test",
+    "time" : {
+      "start" : 1623057415440,
+      "stop" : 1623057481974,
+      "duration" : 66534
+    },
+    "statistic" : {
+      "total" : 3,
+      "passed" : 3,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "3f13bae0af051e63",
+      "name" : "launcgingApplication",
+      "title" : "Launcging application",
+      "time" : {
+        "start" : 1623057415440,
+        "stop" : 1623057427900,
+        "duration" : 12460
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "5d1acd796924fb14",
+      "name" : "userLoging",
+      "title" : "User loging",
+      "time" : {
+        "start" : 1623057427905,
+        "stop" : 1623057431837,
+        "duration" : 3932
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "4949f9eb8d032f52",
+      "name" : "CreateFolder",
+      "title" : "Create folder",
+      "time" : {
+        "start" : 1623057431839,
+        "stop" : 1623057481974,
+        "duration" : 50135
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}

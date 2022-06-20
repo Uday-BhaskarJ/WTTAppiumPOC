@@ -1,0 +1,62 @@
+{
+  "uid" : "5d1acd796924fb14",
+  "name" : "userLoging",
+  "title" : "User loging",
+  "time" : {
+    "start" : 1623057427905,
+    "stop" : 1623057431837,
+    "duration" : 3932
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "c01bfb46f438f597",
+    "name" : "Suite : Test",
+    "title" : "Suite : Test"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "testSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testGroup",
+    "value" : "Test"
+  }, {
+    "name" : "testClass",
+    "value" : "execution.Execute"
+  }, {
+    "name" : "suite-name",
+    "value" : "Suite : Test"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "thread",
+    "value" : "22436@DESKTOP-ULL41SB.main(1)"
+  }, {
+    "name" : "suite-title",
+    "value" : "Suite : Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "userLoging"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-ULL41SB"
+  } ],
+  "parameters" : [ ]
+}
